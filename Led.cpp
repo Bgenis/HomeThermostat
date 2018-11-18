@@ -7,7 +7,7 @@
 #include <WiFiClient.h>
 #include <ESP8266WebServer.h>
 //#include <Adafruit_GFX.h>
-//#include <Adafruit_SSD1306.h>
+#include <Adafruit_SSD1306.h>
 
 #include "index.h"
 
