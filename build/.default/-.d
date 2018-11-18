@@ -1,2 +1,2 @@
-.sc2531488595741539320.o: \
- C:\Users\simina.vlad\eclipse-workspace\Led\.sc2531488595741539320.cpp
+.sc532798624609503591.o: \
+ C:\Users\simina.vlad\git\HomeThermostat\.sc532798624609503591.cpp
